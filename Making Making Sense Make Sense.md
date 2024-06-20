@@ -489,11 +489,11 @@ suggest we may need to re-evaluate.
 
 ## B. Audio
 
-Yesterday I [recorded myself](./assets/Making%20Making%20Sense%20Make%20Sense.mp3) reading this
-writing, and when I uploaded the recording to source control the display size was 66.6mb. Jackpot.
-It was the first bounce, and I simply stripped data tags and extended file information from the
-recording. This could be forged far more easily than the cryptographic assertions on this document,
-yet I did not do this.
+Yesterday I [recorded myself](https://github.com/jasoncolburne/making-making-sense-make-sense/raw/main/assets/Making%20Making%20Sense%20Make%20Sense.mp3)
+reading this writing, and when I uploaded the recording to source control the display size was
+66.6mb. Jackpot. It was the first bounce, and I simply stripped data tags and extended file
+information from the recording. This could be forged far more easily than the cryptographic
+assertions on this document, yet I did not do this.
 
 ---
 

@@ -2,7 +2,7 @@
 
 # [READ THE WRITING](./Making%20Making%20Sense%20Make%20Sense.md)
 
-# [LISTEN TO THE AUDIO](./assets/Making%20Making%20Sense%20Make%20Sense.mp3)
+# [LISTEN TO THE AUDIO](https://github.com/jasoncolburne/making-making-sense-make-sense/raw/main/assets/Making%20Making%20Sense%20Make%20Sense.mp3)
 
 This repository is a verifiably authentic archive, issued by the KERI AID
 `EHhnRAdKqaF4ux-J4CZD5gXmnh45OQO13cFOdbcmCXNB`.
